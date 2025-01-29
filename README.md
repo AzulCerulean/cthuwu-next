@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## About
+This is re-imagining of my final project for Concordia University's Full-Stack Web Developer Bootcamp.
+
+I am using Next.js, TypeScript, and Tailwind CSS to build a web application that allows users to search for recipes based on ingredients they have on hand.
+
+Previously, I used the MERN stack to build the application. I am using this project as an opportunity to learn new technologies and improve my skills.
+
 ## Getting Started
 
 First, run the development server:
